@@ -1,19 +1,5 @@
 # [beta] Project Hoverboard - GDG DevFest 2015 site template
 
-## About
-Project Hoverboard is the next generation conference website template after [Project Zeppelin](https://github.com/gdg-x/zeppelin) and more optimized version - [Project Zeppelin-Grunt](https://github.com/gdg-x/zeppelin-grunt).
-
-Template was build using [Polymer](http://polymer-project.org) according to [Material Design](http://www.google.com/design/spec/material-design/introduction.html) guidelines.
-The site is **responsive**, **fast** and supports **offline access** (if you are using HTTPS protocol).
-
-Template is brought by [Oleh Zasadnyy](https://plus.google.com/+OlehZasadnyy) from [GDG Lviv](http://lviv.gdg.org.ua/).
-
-*Do you like it?* Show your support - please, **star the project**.
-
-### Live demo [GDG DevFest Ukraine 2015](http://devfest.gdg.org.ua/)
-
-#### The Hoverboard is still under development and can bring breaking changes shortly. If you are looking for stable website template try [Project Zeppelin-Grunt](https://github.com/gdg-x/zeppelin-grunt).
-
 ## Features
 * Material design
 * Polymer
@@ -26,7 +12,7 @@ Template is brought by [Oleh Zasadnyy](https://plus.google.com/+OlehZasadnyy) fr
 
 
 ## Quick-start guide
-1.  [Fork](https://github.com/gdg-x/hoverboard/fork) this repo and clone locally or [download](https://github.com/gdg-x/hoverboard/archive/master.zip) and extract Project Hoverboard to where you want to work.
+1.  [Fork] this repo and clone locally or [download] and extract Project Hoverboard to where you want to work.
 2.  Install [Node.js](www.nodejs.org).
 3.  Run `npm install -g gulp bower && npm install && bower install` from the root of the folder.
 4.  Modify template to suit your needs.
@@ -94,7 +80,7 @@ Build and optimize the current project, ready for deployment. This includes link
 gulp deploy
 ```
 
-**Warning:** don't forget to [edit destination repository](https://github.com/gdg-x/hoverboard/blob/master/gulpfile.js#L205) to deploy the website.
+**Warning:** don't forget to [edit destination repository] to deploy the website.
 
 ## Next steps in the project
 * Use generator to configure the template from files
@@ -213,14 +199,3 @@ during a build.
 <!-- endbuild-->
 ```
 
-## Who is using template?
-
-Going to use template? Go on! The only thing we ask - let us know at [lviv@gdg.org.ua](mailto:lviv@gdg.org.ua) so we can include you to this list, or make a pull request.
-
-## Contributing
-
-Project Hoverboard is still under development and it is open for contributions. Feel free to send PR. If you have any questions, feel free to contact [Oleh Zasadnyy](https://plus.google.com/+OlehZasadnyy).
-
-## License
-
-Project is published under the [MIT license](https://github.com/gdg-x/hoverboard/blob/master/LICENSE.md) Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
